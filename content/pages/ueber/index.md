@@ -6,6 +6,6 @@ description = "Seite über mich"
 +++
 ![](/img/default-author.png)
 
-## Vorname Nachname
+## Simone Holzer
 
 simone.holzer@bwdbern.ch
