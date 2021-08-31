@@ -11,4 +11,4 @@ Schnell haben wir unsere Ideen in Taten umgesetzt und potenzielle Kunden angeruf
 
 Wir freuen uns auf unseren ersten Kontakt mit unseren Kunden. 
 
-![](kunden-bild-für-blog.jpg)
+![](angebot-für-blog.jpg)
