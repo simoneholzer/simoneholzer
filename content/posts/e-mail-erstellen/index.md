@@ -6,6 +6,8 @@ pinned = false
 image = "bild_sunnynails.png"
 description = "Wir haben unsere Kundin zum erste Mal persönlich getroffen. Wir haben uns vorgestellt und herausgefunden was Sie gerne möchte. Letztes Mal konnten wir bereits mit den ersten Arbeiten für die Webseite beginnen. "
 +++
+![](bild_sunnynails.png)
+
 Hi,
 
 Wir haben unsere Kundin zu Hause getroffen. Dort wurden wir freundlich empfangen und wir konnten ein angenehmes Gespräch führen. Leider ist die Kommunikation nicht einfach, da sie nicht sehr gut Deutsch spricht. Wir konnten dennoch herausfinden, was sie genau möchte und was wir für Sie machen können. 
