@@ -3,6 +3,7 @@ title = "E-Mail erstellen"
 date = "2021-09-21"
 draft = false
 pinned = false
+image = "bild_sunnynails.png"
 description = "Wir haben unsere Kundin zum erste Mal persönlich getroffen. Wir haben uns vorgestellt und herausgefunden was Sie gerne möchte. Letztes Mal konnten wir bereits mit den ersten Arbeiten für die Webseite beginnen. "
 +++
 Hi,
