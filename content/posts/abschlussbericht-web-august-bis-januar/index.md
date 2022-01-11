@@ -1,7 +1,7 @@
 +++
 title = "Abschlussbericht Web August bis Januar"
 date = "2022-01-11"
-draft = true
+draft = false
 pinned = false
 +++
 Seit August 2021 habe ich das neue Pflichtwahlfach Web besucht. Ziemlich bald mussten wir uns dann mit einem eigenen Projekt befassen. Die Vorgabe war, unser Projekt soll eine Dienstleistung für eine Drittperson sein, im Bereich Website/Social Media. Das Projekt sollte in Zweierarbeit durchgeführt werden. Ich habe mich dann mit Milo zusammengetan und wir haben mit der Ideensuche begonnen. 
