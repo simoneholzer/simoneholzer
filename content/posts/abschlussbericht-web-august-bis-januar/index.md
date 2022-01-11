@@ -4,12 +4,14 @@ date = "2022-01-11"
 draft = true
 pinned = false
 +++
-Seit August 2021 habe ich das neue Pflichtwahlfach Web besucht. Ziemlich bald mussten wir uns dann mit einem eigenen Projekt befassen. Die Vorgabe war, unser Projekt soll eine Dienstleistung für eine Drittperson sein, im Bereich Website/Social Media. Das Projekt sollte in Zweierarbeit durchgeführt werden. Ich habe mich dann mit Milo zusammengetan und wir haben mit der Ideen-suche begonnen. 
+Seit August 2021 habe ich das neue Pflichtwahlfach Web besucht. Ziemlich bald mussten wir uns dann mit einem eigenen Projekt befassen. Die Vorgabe war, unser Projekt soll eine Dienstleistung für eine Drittperson sein, im Bereich Website/Social Media. Das Projekt sollte in Zweierarbeit durchgeführt werden. Ich habe mich dann mit Milo zusammengetan und wir haben mit der Ideensuche begonnen. 
 
 ## Idee und Start ins Projekt
 
 Wir haben in Form eines Mindmap alle unsere Ideen gesammelt und dann begonnen zu präzisieren. Ziemlich rasch haben wir uns dafür entschieden, eine Website für ein Beautyunternehmen zu gestalten. Viele in dieser Branche sind kleine Einzelunternehmen, die nicht viel Zeit und Möglichkeiten haben für Marketing oder Erneuerungen. Nach einem Nachmittag habe wir bereits verschieden Unternehmen, welche wir auf Google finden konnten, angerufen. 
-Wir haben dann Thi Bong gefunden. Sie hat sich, trotz anfänglicher Skepsis, sehr über unsere Hilfe gefreut. Diese Skepsis ist für mich sehr verständlich, denn es ist nicht alltäglich, dass man am Telefon etwas gratis angeboten bekommt. Also mussten wir uns vorstellen und genau erklären warum wir unsere Arbeit gratis machen. Als sie dann verstanden hat, dass wir Schüler*innen sind uns sie unser Pilotprojekt wäre hat sie uns vertraut und eingeladen. Thi Bong ist Vietnamesin und hat ihr eigenes Nagelstudio hier in Bern. Sie würde gerne noch mehr Aufmerksamkeit gewinnen. Bereits am kommenden Montag habe ich mich bei ihr zu Hause getroffen. Wir haben alle Erwartungen, Möglichkeiten und Interessen ausgetauscht. In den Wochen darauf haben Milo und ich dann an der Website gearbeitet. Wir haben von ihr Bilder erhalten und uns regelmässig ausgetauscht, so konnte sie immer sagen was sie gerne anders hätte oder was ihr gefällt.
+Wir haben dann Thi Bong gefunden. Sie hat sich, trotz anfänglicher Skepsis, sehr über unsere Hilfe gefreut. Diese Skepsis ist für mich sehr verständlich, denn es ist nicht alltäglich, dass man am Telefon etwas gratis angeboten bekommt. Also mussten wir uns vorstellen und genau erklären warum wir unsere Arbeit gratis machen. Als sie dann verstanden hat, dass wir Schüler*innen sind uns sie unser Pilotprojekt wäre hat sie uns vertraut und eingeladen. Thi Bong ist Vietnamesin und hat ihr  Nagelstudio "Sunny Nails" hier in Bern. Sie würde gerne noch mehr Aufmerksamkeit gewinnen. Bereits am kommenden Montag habe ich mich bei ihr zu Hause getroffen. Wir haben alle Erwartungen, Möglichkeiten und Interessen ausgetauscht. In den Wochen darauf haben Milo und ich dann an der Website gearbeitet. Wir haben von ihr Bilder erhalten und uns regelmässig ausgetauscht, so konnte sie immer sagen was sie gerne anders hätte oder was ihr gefällt.
+
+![Thi Bong hatte hier bereits einen Instagram Account um ihre Arbeiten zu Teilen. Neu hat sie auch ihre Website verlinkt und ihre Follower können mehr über sie erfahren. ](instagramm.png "Thi Bong ")
 
 ## Projekt
 
@@ -17,7 +19,9 @@ Wir haben eine Website auf Wix und eine Mailadresse erstellt. Thi Bong hatte ber
 Ihr war es wichtig, dass die Website persönlich ist. Es sollte einen Text über sie geben, Bilder von ihren Arbeiten und ihren Angeboten. Die Website sollte individuell und werbend sein. Weiter haben wir noch ihre Social Media Accounts verknüpft. 
 Wir haben alles Mögliche umgesetzt und so eingerichtet, dass wir schlussendlich die Website übergeben konnten. Denn nach diesem Projekt wollten wir die Website nicht mehr unterhalten. So haben wir bei der Übergabe noch einen Crashkurs gemacht. Erfreulicherweise habe ich nach einer Woche bereits erste Veränderungen von ihr gesehen. 
 
-![]()
+![Auf jeder Seite kann man ihre Kontaktdaten sehen und direkt auf die Social Media Accounts wechseln. Die Startseite entspricht  ihrer Social identity.](bild-sunnynails-1-.png "Startseite der Website")
+
+![Hier sieht man wie Thi Bong ihre Angebote vermarktet. Sie hat zu allen Dienstleistungen einen kleinen Text um die Arbeit hervorzuheben und zu individualisieren.](unbenannt-1-.png "Angebote ")
 
 ## Rückmeldung und Zufriedenheit
 
