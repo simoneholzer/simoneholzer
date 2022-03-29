@@ -16,4 +16,4 @@ Ich freue mich sehr auf die neue Arbeit :)
 
 ![hier können Sie das Kosmetikunternehmen kennenlernen. Ich werde Rechnungen machen, Pakete verpacken und diese versenden. ](website.kosmetik.png)
 
-![Ich werde für die Schlüsselübergabe und die Reinigung des Airbnb verantwortlich sein.](airbnb.png)
+![Ich werde für die Schlüsselübergabe und die Reinigung des Airbnb verantwortlich sein.](haus.png)
